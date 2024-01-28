@@ -1,7 +1,6 @@
 # LFG
 
-![LFG](lfgcircle.png "LFG" =100x100)
-
+<img src="lfgcircle.png" alt="LFG" width="100">
 ## What is LFG?
 
 LFG is a group of ordinal theory and inscription protocol contributors who are creating open source applications on top of the bitcoin blockchain. Our contributions include an open source indexer, marketplace, early collections, among other various contributions using those as a foundation to help grow adoption of bitcoin and the use of ordinals to trade. 
