@@ -1,6 +1,6 @@
 # LFG
 
-![LFG](lfgcircle.png "LFG" = 100x100)
+![LFG](lfgcircle.png "LFG" =100x100)
 
 ## What is LFG?
 
